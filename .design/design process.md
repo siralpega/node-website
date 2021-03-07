@@ -1,0 +1,23 @@
+# Initial Design & First Steps
+My initial thoughts on the project led me to thinking about status pages, as they are similar to the requirements of the project. The goal is to display information in quick and easy way. I was able to imagine a general layout in my head, but I then started to search around for other status pages to gain inspiration.  I noted a few similarities between them all: 
+- They are minimal in design, only displaying the important information in big fonts
+- They use colors to display information.
+- They can have expanded information with a minimal amount of clicks
+
+After looking through examples, I decided to start drawing my own front-end layout of the project. I drew up a mock layout of what the layout would look like, and used this to start coding in a basic front-end layout right away so I can get visual feedback on my changes early on in the project. After setting up my project environment and getting a basic layout implemented, I created a product backlog that would act as a to-do list so I could keep track what I had to implement. Creating this backlog after I started coding the layout helped me, as I felt I would be able to plan what I needed to do more clearly, once I actually started coding the project.
+
+# Updating the Layout & Coding
+After implementing the first draft layout, I started to integrate the data to give me a real example of how the website will look. After setting up a database and using REST API to retrieve the data, I started working on changing the design. I drew a new layout, which I called the final draft. The reasons I decided to create a new draft was:
+- The old layout felt too tall for each node on the list, and I felt it could be reduced to make it less clunky. 
+- The old layout required the user’s eyes to move both vertically and horizontally to read the statistics of one node, while the new one only requires it to be horizontally.
+- The color palate of the old layout did not look nice.
+
+By having the actual data already available on the website, as well as some functionality, I was able to better visual how my new layout would look, which helped me finalize the design quickly and get to work on the functionality. After working on getting the display to its final form, I then went back and created a new color palate which improved the visuals of the website. 
+
+# Expanded Information
+By clicking on a node on the list, I created a pop-up modal to show more information about that node, so the main list wouldn’t be cluttered with information (sticking with the minimal theme). Instead of just displaying the history, I added a way to compare current statistics to previous ones, stored in the database with a timestamp. The current and previous information is shown on the left that also provides a percentage of change between the statistics. On the right, I added a graph as a visual aid to help show the change over time. The graph displays all data points from the selected timestamp up to the current date, while the comparisons show the different between the specific timestamp selected and the current. The selected timestamp can be selected from the top right dropdown, it both cases. For the chart, I decided to use a module called apexchart as it met the design requirements of the project and was easy to implement into the project. 
+
+# Further Steps
+If I had more time on the project, I would work further on the expanded information section by implementing the up since property to the graph as well, and keeping the history of uptime rather than just the last date the node was recorded offline. I would also improve the overall layout and style of the expanded information section, allowing for more space and polish on how the information was displayed, as right now I would consider it a little too compact.
+
+As for the main dashboard, I could see the potential to expand it to have multiple pages, where the current list would be a separate page and the home page could instead be a list of current nodes that are either offline or are full (or approaching full) on RAM or storage. With more time to create and study use cases, I could see the main purpose of the dashboard being used is just to check the status of any nodes offline / full, while using the dashboard to look at the history of the information might be less common. In other words, I would combine a real-time status page and a statistics site into one.

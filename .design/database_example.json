@@ -1,0 +1,178 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "up_since": "2020-07-26T21:04:56.969Z",
+            "timestamps": {
+                "2021-2-19 01:30:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613698204873
+                },
+                "2021-2-19 01:35:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613698506008
+                },
+                "2021-2-19 01:40:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613698804863
+                },
+                "2021-2-19 01:45:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613699105854
+                },
+                "2021-2-19 01:50:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613699404775
+                },
+                "2021-2-19 01:55:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613699705324
+                },
+                "2021-2-19 02:00:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613700005029
+                },
+                "2021-2-19 02:05:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613700305005
+                },
+                "2021-2-19 02:10:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613700604840
+                },
+                "2021-2-19 02:15:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613700905705
+                },
+                "2021-2-19 02:20:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613701204794
+                },
+                "2021-2-19 02:25:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613701504758
+                },
+                "2021-2-19 02:30:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613701804491
+                },
+                "2021-2-19 02:35:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613702104541
+                },
+                "2021-2-19 02:40:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613702404457
+                },
+                "2021-2-19 02:45:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613702705346
+                },
+                "2021-2-19 02:50:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613703005620
+                },
+                "2021-2-19 02:55:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613703304447
+                },
+                "2021-2-19 03:00:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613703604627
+                },
+                "2021-2-19 03:05:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613703905899
+                },
+                "2021-2-19 03:10:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613704204635
+                },
+                "2021-2-19 03:15:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613704504600
+                },
+                "2021-2-19 03:20:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613704804685
+                },
+                "2021-2-19 03:25:00": {
+                    "allocated_disk": 49979,
+                    "allocated_ram": 3864,
+                    "free_disk": 37317,
+                    "free_ram": 53800,
+                    "timestamp": 1613705105410
+                }
+            }
+        }
+    ]
+}
